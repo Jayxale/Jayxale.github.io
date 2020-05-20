@@ -8,10 +8,8 @@
 }
 
 .enter {
-		object-fit: cover;
-		height: auto;
-		width: 50%;
-		max-width: 720px;	  
+		height: 100%;
+		max-width: auto;	  
 }
 
 html, body, div, span, applet, object,
